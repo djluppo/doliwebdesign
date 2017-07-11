@@ -1,0 +1,34 @@
+body {
+	font-family: arial,sans-serif;
+	padding: 0;
+	margin: 0;
+}
+
+header {
+	background:white;
+	padding-top: 5px;
+	min-height: 105px;
+	border-bottom:black 7px solid;
+	width: 100%;
+}
+
+header h1 {
+	color:black;
+	width: 400px;
+	padding-top: 5px;
+	padding-left: 25px;
+}
+
+header li {
+	text-decoration: none;
+	text-transform: uppercase;
+	display: inline;
+	padding-right: 15px;
+
+}
+
+header nav{
+	padding:0;
+	margin: 0;
+	
+}
